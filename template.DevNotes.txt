@@ -9,7 +9,7 @@ ComputerUsed:
 ServerUsed:
 Github Dir:
 Project Status:
-Notes Here Status: (Complete y/n or other)
+Notes Complete? (y/n):
 
 
 EXECUTIVE SUMMARY:
